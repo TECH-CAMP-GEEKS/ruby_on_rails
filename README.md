@@ -1,2 +1,2 @@
 # ruby_on_rails
-#ruby_on_rails に関する議論をしましょう
+Ruby on Rails に関する議論をしましょう
